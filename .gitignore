@@ -1,0 +1,7 @@
+# Pastas e arquivos que não devem subir para o GitHub
+.venv/
+.env
+credenciais.json
+n8n_data/
+__pycache__/
+*.pyc
